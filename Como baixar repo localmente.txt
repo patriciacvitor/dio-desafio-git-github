@@ -1,0 +1,12 @@
+Vá para a página do GitHub do seu repositório:
+https://github.com/seu-user/seu-repo
+
+Clique em Code > HTTPS > Botão ao lado direito do link para copiar
+
+Na pasta do computador onde deseja criar o repositório:
+Botão direito > Git Bash here
+$ git clone Shift+Ins
+
+Para entrar na pasta pelo Git Bash:
+$ cd nome-do-repo (ou inicio do nome+TAB -> No Windows)
+
